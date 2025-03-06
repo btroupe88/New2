@@ -1,2 +1,4 @@
 # New2
-Class assignment
+print("Im learning how to program in python")
+print("that's awesome!")
+
